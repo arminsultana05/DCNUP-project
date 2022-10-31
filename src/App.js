@@ -6,7 +6,7 @@ import Header from './Components/Shared/Header/Header';
 
 function App() {
   return (
-   <div className="">
+   <div style={{ backgroundColor: "#F5F5F5"}}>
 
     <Home/>
    </div>

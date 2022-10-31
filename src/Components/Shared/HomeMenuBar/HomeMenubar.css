@@ -1,0 +1,14 @@
+.home-menubar-container {
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: -3.5px;
+    /* overflow-y: hidden; */
+
+}
+
+.home-menubar {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 8px -4px rgba(58, 53, 65, 0.42);
+    border-radius: 0px 0px 8px 8px;
+
+}

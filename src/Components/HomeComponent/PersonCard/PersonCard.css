@@ -1,0 +1,102 @@
+.card-container {
+    width: 22rem;
+    height: 32rem;
+    box-sizing: border-box;
+    background: #BEE1E6;
+    border-radius: 0.625rem;
+
+}
+
+.top-container {
+
+    width: 22rem;
+    height: 7.063rem;
+    background: #BEE1E6;
+    border-radius: 8px 8px 0px 0px;
+
+}
+
+.middle-container {
+    box-sizing: border-box;
+    width: 22rem;
+    height: 27.8rem;
+    background: #FFFFFF;
+    border: 1px solid #A9D6FF;
+    border-radius: 0.625rem;
+    margin-top: -1.563rem;
+
+}
+
+.img-container {
+    width: 13.75rem;
+    height: 18.75rem;
+    background: url(../../assets/profile-img/taposh.jpeg.jpg);
+    border-radius: 0.5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-size {
+    width: 3.75rem;
+    height: 3.75rem;
+    background: #FFFFFF;
+    border-radius: 12.5rem;
+}
+
+.card-taxt {
+    width: 13.9rem;
+    height: 1.188rem;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #252B42;
+    margin-bottom: 10px;
+    margin-left: 20px;
+
+
+}
+
+.text1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    text-align: center;
+    color: #FFA62B;
+}
+
+.text2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #3A3A3A;
+
+}
+
+.text3 {
+    ont-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #3A3A3A;
+}
+
+.text4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.875rem;
+    color: #165DC5;
+}
+
+.img-container1 {
+    width: 13.75rem;
+    height: 18.75rem;
+    background: url(../../assets/profile-img/Farid.png);
+    border-radius: 0.5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

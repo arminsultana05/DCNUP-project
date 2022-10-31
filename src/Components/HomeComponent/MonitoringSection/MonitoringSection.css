@@ -1,0 +1,39 @@
+.monitor-taxt1 {
+    margin-top: 6rem;
+    text-align: center;
+    color: #F9B233;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+
+}
+
+.monitor-taxt2 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: rgba(0, 109, 119, 1);
+}
+
+.line-style {
+    width: 585px;
+    height: 0px;
+    border: 1px solid #000000;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.dummy-taxt {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    text-align: justify;
+
+    color: #111820;
+
+}
