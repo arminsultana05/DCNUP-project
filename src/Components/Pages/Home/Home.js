@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from '../../HomeComponent/Banner/Banner';
+import Founded from '../../HomeComponent/Founded/Founded';
 import MonitoringSection from '../../HomeComponent/MonitoringSection/MonitoringSection';
 import PersonCard from '../../HomeComponent/PersonCard/PersonCard';
 import SubProject from '../../HomeComponent/SubProject/SubProject';
@@ -15,6 +16,7 @@ const Home = () => {
            <MonitoringSection/>
            <PersonCard/>
            <SubProject/>
+           <Founded/>
             
         </div>
     );
